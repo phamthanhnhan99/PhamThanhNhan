@@ -1,0 +1,60 @@
+body {
+	font-family: Tahoma;
+	font-size: 13px;
+	width: 1000px;
+	margin: 0px auto;
+}
+
+#top {
+	width: 1000px;
+	margin: auto;
+	height: 35px;
+}
+
+#top-left {
+	float: left;
+}
+
+#top-left ul {
+	list-style-type: none;
+}
+
+#top-left ul li {
+	float: left;
+	text-decoration: none;
+		
+}
+#top-right {
+	float:right;
+}
+
+#top-right ul {
+	list-style-type: none;
+	padding: 0px 20px 0px 0px;
+}
+
+#top-right ul li {
+	float: left;
+	margin-left: 8px;
+}
+
+#top-right ul li a{
+	text-decoration: none;
+	color: black;
+}
+#top-right ul li a:hover {
+	color: red;	
+}
+
+#menu_top {
+	background: #0C22A1;
+	height: 40px;
+}
+
+#banner {
+	height: auto;
+	width: 1000px;
+}
+@charset "utf-8";
+/* CSS Document */
+
